@@ -13,7 +13,7 @@ I am an international graduate student at the <a href="https://www.wm.edu/as/com
 
 I started my career by working as a software engineering intern at <a href="https://www.orion-informatics.com/home.html"> Orion Informatics Limited, Bangladesh</a>. Later, I joined as a lecturer in the <a href="https://swe.daffodilvarsity.edu.bd/"> Department of Software Engineering, Daffodil Internation University </a>. Currently, I am on study leave. 
 
-I am happily married with <a href="https://amitsealami.github.io/">Amit Seal Ami</a>, PhD candidate of the College of William and Mary. 
+
 
 ### Contact me
 
