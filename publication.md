@@ -4,7 +4,7 @@ title: Pulications
 permalink: /publication/
 ---
 
-1. Khandaker Mamun Ahmed, Prianka Mandal, B M Mainul Hossain, "Text to Speech Synthesis for Bangla Language", International Journal of Information Engineering and Electronic Business(IJIEEB), Vol.11, No.2, pp. 1-9, 2019. </p>
+1. Khandaker Mamun Ahmed, Prianka Mandal, B M Mainul Hossain, "Text to Speech Synthesis for Bangla Language", International Journal of Information Engineering and Electronic Business(IJIEEB), Vol.11, No.2, pp. 1-9, 2019. 
 
 2. Mandal, Prianka, B M Mainul Hossain, "A Systematic Literature Review on Spell Checkers for Bangla Language", International Journal of Modern Education and Computer Science (IJMECS), Vol.9, No.6, pp.40-47, 2017. 
 
