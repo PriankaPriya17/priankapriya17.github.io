@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a Graduate Student at the Computer Science Department, College of William and Mary. My research interests are Software Engineering and Security.
+I am a Graduate Student at the Computer Science Department, College of William and Mary. My research interests are Security and Privacy.
 
 # News
 
