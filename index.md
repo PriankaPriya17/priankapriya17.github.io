@@ -9,9 +9,9 @@ I have completed both my BSc. in Software Engineering and MSc. in Software Engin
 
 
 
-### Contact me
+<!---### Contact me-->
 
-[prianka.iit.du@gmail.com](mailto:prianka.iit.du@gmail.com)
+<!---[prianka.iit.du@gmail.com](mailto:prianka.iit.du@gmail.com)-->
 
 
 # News
