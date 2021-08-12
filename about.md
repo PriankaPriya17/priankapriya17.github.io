@@ -14,8 +14,7 @@ I started my career by working as a software engineering intern at <a href="http
 
 I am happily married with <a href="https://amitsealami.com/">Amit Seal Ami</a>, who is doing his PhD at the William & Mary!
 
-![AmitAndAmi](https://user-images.githubusercontent.com/55261064/129136387-f9be81db-1372-4f59-97c3-13f1e83e5745.jpg)
-
+<img src = "https://user-images.githubusercontent.com/55261064/129136587-cfeeb53a-e312-48ec-add6-293600f16475.jpg" width = 50%>
 
 
 ### Contact me
