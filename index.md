@@ -14,7 +14,7 @@ I am a Ph.D. candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 
 
 # News
-- Attended GREPSEC Workshop, SOUPS and USENIX Security 2021
+- Attended GREPSEC Workshop along with SOUPS and USENIX Security 2021
 - Got selected for the GREPSEC Workshop 2021
 - Attended IEEE Symposium on Security and Privacy 2021
 - Received student registration grant for the IEEE Symposium on Security and Privacy 2021
