@@ -15,7 +15,7 @@ I am a Ph.D. candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 
 # News
 ## 2022
-- (_Februray'22_) Got selected for 2022 CRA-WP Graduate Cohort for Women Workshop
+- (_February_) Got selected for 2022 CRA-WP Graduate Cohort for Women Workshop
 
 ## 2021
 - Attened ACM CCS 2021
