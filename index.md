@@ -15,6 +15,7 @@ I am a Ph.D. candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 
 # News
 ## 2022
+- (_April 4_) Attened the <a href="https://cyberinitiative.org/events-programs/2022/2022-cci-symposium.html"> CCI Symposium 2022</a> and presented a poster 
 - (_February_) Got selected for 2022 CRA-WP Graduate Cohort for Women Workshop
 
 ## 2021
