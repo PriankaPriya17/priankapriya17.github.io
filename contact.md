@@ -22,7 +22,7 @@ title: Contact
 	<div class="bottom">
 		<div class="social-icons">
 			<div class="icon">
-				<a href="tel:+17578394897" aria-label="Call Prianka"><i class="fa-solid fa-phone" style="line-height: 2"></i></a>
+				<a href="tel:+17578395803" aria-label="Call Prianka"><i class="fa-solid fa-phone" style="line-height: 2"></i></a>
 				<h4>Phone</h4>
 			</div>
 			<div class="icon">
