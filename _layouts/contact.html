@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+{% if page.lang %}
+<html lang= "{{ page.lang }}">
+{% elsif post.lang %}
+<html lang= "{{ post.lang }}">
+{% else %}
+<html lang= "en">
+{% endif %}
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+    {% include meta.html %}
+    <meta property="og:type" content="article">
+
+</head>
+
+<body>
+    {{ content }}
+    {% include analytics.html %}
+</body>
+
+<!-- based on https://codepen.io/byurhanbeyzat/pen/WzwqYK -->
