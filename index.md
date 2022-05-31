@@ -15,7 +15,10 @@ I am a Ph.D. candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 
 # News
 ## 2022
-- (_April 4_) Attened the <a href="https://cyberinitiative.org/events-programs/2022/2022-cci-symposium.html"> CCI Symposium 2022</a> and presented a poster 
+- (_May_) Attended <a href="https://cactus-colloquium.github.io/">Capital-Area Colloquium on Trustworthy and Usable Security/Privacy (CATCUS/P)</a> at the George Washington University
+- (_May_) Attended <a href="https://www.ieee-security.org/TC/SP2022/">43rd IEEE Symposium on Security and Privacy</a> (in-person) and presented our poster
+- (_April_) My first poster on _"Exploring User Perceptions and Expectations of Privacy in City-wide WiFi Services"_ has been accepted at the 43rd IEEE Symposium on Security and Privacy
+- (_April_) Attened the <a href="https://cyberinitiative.org/events-programs/2022/2022-cci-symposium.html"> CCI Symposium 2022</a> and presented a poster 
 - (_February_) Got selected for 2022 CRA-WP Graduate Cohort for Women Workshop
 
 ## 2021
