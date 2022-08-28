@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a Ph.D. candidate at the <a href="https://www.wm.edu/as/computerscience/"> Computer Science Department, William and Mary</a>. My research interest is Security & Privacy. My research advisor is <a href="https://www.adwaitnadkarni.com/"> Dr. Adwait Nadkarni</a>. Currently, I am working on usable security and privacy in smart cities and smart homes.
+I am a Ph.D. Candidate at the <a href="https://www.wm.edu/as/computerscience/"> Computer Science Department, William and Mary</a>. My research interest is Security & Privacy. My research advisor is <a href="https://www.adwaitnadkarni.com/"> Dr. Adwait Nadkarni</a>. Currently, I am working on usable security and privacy in smart cities and smart homes.
 
 
 
@@ -15,6 +15,7 @@ I am a Ph.D. candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 
 # News
 ## 2022
+- (_August_) Attended [31st USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity22/) (in-person) and presented our poster!
 - (*July*) My poster on *"Does Compliance Enforcement Work?: Evaluation of Certified Mobile-IoT Apps"* has been accepted at the [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)!
 - (_July_) Received Diversity Grant from [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)!
 - (_June_) Serving as an [International Peer Leader](https://www.wm.edu/offices/revescenter/issp/programs/peerleaders/meet-the-peerleaders/graduate-peer-leaders/mandal-prianka.php) for new international students (Fall 2022) at William & Mary!
