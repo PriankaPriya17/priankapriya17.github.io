@@ -16,8 +16,8 @@ I am a Ph.D. Candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 # News
 
 ## 2023
-- (_July_) Our paper, [Helion: Enabling Natural Testing of Smart Homes](https://2023.esec-fse.org/details/fse-2023-demonstrations/6/Helion-Enabling-Natural-Testing-of-Smart-Homes), has been accepted to the Tool Demo Track at ESEC/FSE'23!
-- (_March_) I, with my loving husband Amit, became parents to <span style="color: mediumvioletred"> a baby girl, named Agnika! </span> 
+- (_July_) Our paper, [Helion: Enabling Natural Testing of Smart Homes](https://2023.esec-fse.org/details/fse-2023-demonstrations/6/Helion-Enabling-Natural-Testing-of-Smart-Homes), has been accepted to the Tool Demo Track at ESEC/FSE'23! 🥂
+- (_March_) I, with my loving husband Amit, became parents to <span style="color: mediumvioletred"> a baby girl, named Agnika! 🤱</span> 
 
 ## 2022
 - (_August_) Attended [31st USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity22/) (in-person) and presented our poster!
