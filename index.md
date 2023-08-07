@@ -8,12 +8,17 @@ I am a Ph.D. Candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 
 <!---### Contact me-->
 
-<!---[prianka.iit.du@gmail.com](mailto:prianka.iit.du@gmail.com)-->
+<!---[Send Email](mailto:priankamandal17@gmail.com)-->
 
 
 
 
 # News
+
+## 2023
+- (_July_) Our paper, [Helion: Enabling Natural Testing of Smart Homes](https://2023.esec-fse.org/details/fse-2023-demonstrations/6/Helion-Enabling-Natural-Testing-of-Smart-Homes), has been accepted to the Tool Demo Track at ESEC/FSE'23! &#129346
+- (_March_) I, with my loving husband Amit, became parents to <p style="color: mediumvioletred"> a baby girl, named Agnika</p>! &#129329
+
 ## 2022
 - (_August_) Attended [31st USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity22/) (in-person) and presented our poster!
 - (*July*) My poster on *"Does Compliance Enforcement Work?: Evaluation of Certified Mobile-IoT Apps"* has been accepted at the [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)!
