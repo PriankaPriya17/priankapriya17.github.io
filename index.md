@@ -16,6 +16,7 @@ I am a Ph.D. Candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 # News
 
 ## 2023
+- (_August_) Our paper, ‘Belt and suspenders’ or ‘just red tape’?: Investigating Early Outcomes and Perceptions of IoT Security Compliance Enforcement has been accepted at the [33rd USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity24)! 🥂
 - (_July_) Our paper, [Helion: Enabling Natural Testing of Smart Homes](https://2023.esec-fse.org/details/fse-2023-demonstrations/6/Helion-Enabling-Natural-Testing-of-Smart-Homes), has been accepted to the Tool Demo Track at ESEC/FSE'23! 🥂
 - (_March_) I, with my loving husband Amit, became parents to <span style="color: mediumvioletred"> a baby girl, named Agnika! 🤱</span> 
 
