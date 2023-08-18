@@ -4,7 +4,7 @@ title: Publications
 permalink: /publication/
 ---
 
-1.  **Prianka Mandal**, Amit Seal Ami, Victor Olaiya, and Aadwait Nadkarni, “‘Belt and suspenders’ or ‘just red tape’?: Investigating Early Outcomes and Perceptions of IoT Security Compliance Enforcement,” in Proceedings of the 2024 USENIX Security Symposium (USENIX), Aug. 2024.
+1.  **Prianka Mandal**, Amit Seal Ami, Victor Olaiya, Sayyed Hadi Razmjo, and Aadwait Nadkarni, “‘Belt and suspenders’ or ‘just red tape’?: Investigating Early Outcomes and Perceptions of IoT Security Compliance Enforcement,” in Proceedings of the 2024 USENIX Security Symposium (USENIX), Aug. 2024.
 
 2.  **Prianka Mandal**, Sunil Manandhar, Kaushal Kafle, Kevin Moran, Denys Poshyvanyk, and Adwait Nadkarni, “Helion: Enabling Natural Testing of Smart Homes,” in Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’23), Demonstration Track, San Francisco, 2023. 
 
