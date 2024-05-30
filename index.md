@@ -15,13 +15,18 @@ I am a Ph.D. Candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 
 # News
 
+## 2024
+- (_March_) Presented poster at DMV workshop!
+
 ## 2023
+- (_November_) Two of our papers - “‘Belt and suspenders’ or ‘just red tape’?: Investigating Early Artifacts and User Perceptions of IoT App Security Certification” and “Understanding the Privacy Practices of Political Campaigns,” won the best poster award at WM CS Symposium!
 - (_October_) Our paper, _Understanding the Privacy Practices of Political Campaigns: A Perspective from the 2020 US Election Websites_ has been accepted to the IEEE Symposium on Security and Privacy 2024! 🥂
 - (_August_) Our paper, _‘Belt and suspenders’ or ‘just red tape’?: Investigating Early Artifacts and User Perceptions of IoT App Security Certification_ has been accepted at the [33rd USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity24)! 🥂
 - (_July_) Our paper, [Helion: Enabling Natural Testing of Smart Homes](https://2023.esec-fse.org/details/fse-2023-demonstrations/6/Helion-Enabling-Natural-Testing-of-Smart-Homes), has been accepted to the Tool Demo Track at ESEC/FSE'23! 🥂
 - (_March_) I, with my loving husband Amit, became parents to <span style="color: mediumvioletred"> a baby girl, named Agnika! 🤱</span> 
 
 ## 2022
+- (_October_) Presented poster at the first WM CS Symposium!
 - (_August_) Attended [31st USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity22/) (in-person) and presented our poster!
 - (*July*) My poster on *"Does Compliance Enforcement Work?: Evaluation of Certified Mobile-IoT Apps"* has been accepted at the [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)!
 - (_July_) Received Diversity Grant from [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)!
