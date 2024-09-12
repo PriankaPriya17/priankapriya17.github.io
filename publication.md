@@ -8,9 +8,9 @@ permalink: /publication/
 
 1. **Prianka Mandal** and Adwait Nadkarni, “‘We can’t change it overnight’: Understanding Industry Perspectives on IoT Product Security Compliance and Certification,” in Proceedings of the 2025 IEEE Symposium on Security and Privacy (S&P 2025), 2025. To appear.
 
-2.  **Prianka Mandal**, Amit Seal Ami, Victor Olaiya, Sayyed Hadi Razmjo, and Aadwait Nadkarni, “‘Belt and suspenders’ or ‘just red tape’?: Investigating Early Artifacts and User Perceptions of IoT App Security Certification,” in Proceedings of the 2024 USENIX Security Symposium (USENIX), Aug. 2024. 
+2.  **Prianka Mandal**, Amit Seal Ami, Victor Olaiya, Sayyed Hadi Razmjo, and Aadwait Nadkarni, “[‘Belt and suspenders’ or ‘just red tape’?: Investigating Early Artifacts and User Perceptions of IoT App Security Certification](https://www.usenix.org/conference/usenixsecurity24/presentation/mandal),” in Proceedings of the 2024 USENIX Security Symposium (USENIX), Aug. 2024. 
 
-3.  Kaushal Kafle, **Prianka Mandal**, K. Singh, B. Andow, and Adwait Nadkarni, “Understanding the Privacy Practices of Political Campaigns: A Perspective from the 2020 US Election Websites,” in Proceedings of the 2024 IEEE Symposium on Security and Privacy (S&P), 2024.
+3.  Kaushal Kafle, **Prianka Mandal**, K. Singh, B. Andow, and Adwait Nadkarni, “[Understanding the Privacy Practices of Political Campaigns: A Perspective from the 2020 US Election Websites](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a091/1Ub22Yc2aOc),” in Proceedings of the 2024 IEEE Symposium on Security and Privacy (S&P), 2024.
 
 4.  **Prianka Mandal**, Sunil Manandhar, Kaushal Kafle, Kevin Moran, Denys Poshyvanyk, and Adwait Nadkarni, “Helion: Enabling Natural Testing of Smart Homes,” in Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’23), Demonstration Track, San Francisco, 2023. 
 
