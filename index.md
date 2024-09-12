@@ -16,7 +16,13 @@ I am a Ph.D. Candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 # News
 
 ## 2024
+- (_September_) Our paper, "We can't change it overnight - Understanding Industry Perspectives on IoT Product Security Compliance and Certification," has been accepted to the IEEE Symposium on Security and Privacy 2025! 🥂
+- (_August_) Attended USENIX Security Symposium 2024 and presented our paper  _‘Belt and suspenders’ or ‘just red tape’?: Investigating Early Artifacts and User Perceptions of IoT App Security Certification_! I also received the student travel grant from USENIX 2024!
+- (_May-August_) Worked in the Office of Recovery Services (ORS) at the Virginia Department of Behavioral Health and Developmental Services this summer as a 2024 COVES Fellow!
+- (_May_) Attended IEEE Symposium on Security and Privacy 2024 (in-person) and presented our poster! I also received student travel grant from IEEE S&P 2024!
 - (_March_) Presented poster at DMV workshop!
+- (_March_) Received International Student Opportunity Scholarship 2024! 
+- (_January_) Received COVES Fellowship 2024! 
 
 ## 2023
 - (_November_) Two of our papers - “‘Belt and suspenders’ or ‘just red tape’?: Investigating Early Artifacts and User Perceptions of IoT App Security Certification” and “Understanding the Privacy Practices of Political Campaigns,” won the best poster award at WM CS Symposium!
