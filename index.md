@@ -15,7 +15,11 @@ I am a Ph.D. Candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 
 # News
 
+## 2025
+
 ## 2024
+- (_December_) Our paper, "Testing Practices, Challenges, and Developer Perspectives in  Open-Source IoT Platforms," has been accepted to the 18th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2025! 🥂
+- (_November_) Done with my **Ph.D. Dissertation Proposal**!  
 - (_September_) Our paper, "We can't change it overnight - Understanding Industry Perspectives on IoT Product Security Compliance and Certification," has been accepted to the IEEE Symposium on Security and Privacy 2025! 🥂
 - (_August_) Attended USENIX Security Symposium 2024 and presented our paper  _‘Belt and suspenders’ or ‘just red tape’?: Investigating Early Artifacts and User Perceptions of IoT App Security Certification_! I also received the student travel grant from USENIX 2024!
 - (_May-August_) Worked in the Office of Recovery Services (ORS) at the Virginia Department of Behavioral Health and Developmental Services this summer as a 2024 COVES Fellow!
