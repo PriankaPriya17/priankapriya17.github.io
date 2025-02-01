@@ -16,6 +16,7 @@ I am a Ph.D. Candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 # News
 
 ## 2025
+- Our paper, "Free WiFi is not ultimately free - Privacy Perceptions of Users in the US regarding City-wide WiFi Services" has been accepted to the Privacy Enhancing Technologies Symposium (PETS/PoPETS 2025)! 🥂
 
 ## 2024
 - (_December_) Our paper, "Testing Practices, Challenges, and Developer Perspectives in  Open-Source IoT Platforms," has been accepted to the 18th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2025! 🥂
