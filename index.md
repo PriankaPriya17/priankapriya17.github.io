@@ -16,6 +16,7 @@ I am a Ph.D. Candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 # News
 
 ## 2025
+- (_March_) Our paper, "We can’t allow IoT vendors to pass off all such liability to the consumer - Investigating the U.S. Legal Perspectives on Liability for IoT Product Security" has been accepted to the IEEE Symposium on Security and Privacy 2025! 🥂
 - (_January_) Our paper, "Free WiFi is not ultimately free - Privacy Perceptions of Users in the US regarding City-wide WiFi Services" has been accepted to the Privacy Enhancing Technologies Symposium (PETS/PoPETS 2025)! 🥂
 
 ## 2024
