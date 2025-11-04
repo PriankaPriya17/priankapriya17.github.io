@@ -7,9 +7,9 @@ I am a Ph.D. Candidate at the <a href="https://www.wm.edu/as/computerscience/"> 
 
 My research assesses the security and privacy of consumer-facing computing platforms using a multidimensional approach. To accomplish this, I use mixed methods, combining vulnerability analysis, systematic measurement, and qualitative studies to evaluate artifacts, stakeholder perspectives, and legal perspectives. In particular, I look into these: (i) how the compliance standards and regulations are implemented and being practiced, and (ii) how they should be. I explored these two aspects in the context of the IoT ecosystem. That is, my work identifies the challenges and latent factors in current security compliance and certification practices for IoT products. Further, I investigated the privacy practices of non-profits that collect sensitive user data. The goal is to motivate similar expectations of privacy and regulations to prevent harmful privacy practices within the non-profit sector. 
 
-My research has been published in top-tier security and privacy venues, including USENIX Security 2024, IEEE S&P 2024, IEEE S&P 2025, and PETS 2025, as well as in software engineering venues, including ICST 2025 and FSE 2023.
+My research has been published in top-tier security and privacy venues, including USENIX Security 2024, IEEE S&P 2024, IEEE S&P 2025, and PETS 2025, as well as in software engineering venues such as ICST 2025 and FSE 2023.
 
- <span style="color: mediumvioletred"> _I am on the job market seeking research positions in academia or industry!_ </span> 
+ Currently, <span style="color: blue"> _I am on the job market seeking research positions in academia or industry!_ </span> 
 
 <!---### Contact me-->
 
