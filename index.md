@@ -9,7 +9,7 @@ My research assesses the security and privacy of consumer-facing computing platf
 
 My research has been published in top-tier security and privacy venues, including USENIX Security 2024, IEEE S&P 2024, IEEE S&P 2025, and PETS 2025, as well as in software engineering venues, including ICST 2025 and FSE 2023.
 
-
+<span style="color:blue">I am on the job market seeking research positions in academia or industry!</span>.
 
 <!---### Contact me-->
 
