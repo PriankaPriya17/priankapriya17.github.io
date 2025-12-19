@@ -6,13 +6,13 @@ permalink: /publication/
 
 # Conference
 
-1. **Prianka Mandal**, Tu Le, Amit Seal Ami, Yuan Tian, and Adwait Nadkarni, “[‘Free WiFi is not ultimately free’: Privacy Perceptions of Users in the US regarding City-wide WiFi Services,]()” in Proceedings of the 25th Privacy Enhancing Technologies Symposium (PETS/PoPETS 2025), 2025. To appear.
+1. **Prianka Mandal**, Tu Le, Amit Seal Ami, Yuan Tian, and Adwait Nadkarni, “[‘Free WiFi is not ultimately free’: Privacy Perceptions of Users in the US regarding City-wide WiFi Services,]()” in Proceedings of the 25th Privacy Enhancing Technologies Symposium (PETS/PoPETS 2025), 2025. 
 
-2. **Prianka Mandal**, Amit Seal Ami, Iria Giuffrida, Daniel Shin, Ella Sullivan, and Adwait Nadkarni, “[‘We can’t allow IoT vendors to pass off all such liability to the consumer’: Investigating the U.S. Legal Perspectives on Liability for IoT Product Security](),” in Proceedings of the 2025 IEEE Symposium on Security and Privacy (S&P 2025), 2025. To appear.
+2. **Prianka Mandal**, Amit Seal Ami, Iria Giuffrida, Daniel Shin, Ella Sullivan, and Adwait Nadkarni, “[‘We can’t allow IoT vendors to pass off all such liability to the consumer’: Investigating the U.S. Legal Perspectives on Liability for IoT Product Security](),” in Proceedings of the 2025 IEEE Symposium on Security and Privacy (S&P 2025), 2025. 
 
-3. **Prianka Mandal** and Adwait Nadkarni, “[‘We can’t change it overnight’: Understanding Industry Perspectives on IoT Product Security Compliance and Certification](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a091/224Aon4Ntny),” in Proceedings of the 2025 IEEE Symposium on Security and Privacy (S&P 2025), 2025. To appear.
+3. **Prianka Mandal** and Adwait Nadkarni, “[‘We can’t change it overnight’: Understanding Industry Perspectives on IoT Product Security Compliance and Certification](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a091/224Aon4Ntny),” in Proceedings of the 2025 IEEE Symposium on Security and Privacy (S&P 2025), 2025. 
 
-4. D. Rodriguez-Cardenas, S. A. Khan, **Prianka Mandal**, Adwait Nadkarni, K. Moran, and D. Poshyvanyk, “[Testing Practices, Challenges, and Developer Perspectives in Open-Source IoT Platforms](),” in Proceedings of the 18th IEEE International Conference on Software Testing, Verification and Validation (ICST 2025), 2025. To appear. 
+4. D. Rodriguez-Cardenas, S. A. Khan, **Prianka Mandal**, Adwait Nadkarni, K. Moran, and D. Poshyvanyk, “[Testing Practices, Challenges, and Developer Perspectives in Open-Source IoT Platforms](),” in Proceedings of the 18th IEEE International Conference on Software Testing, Verification and Validation (ICST 2025), 2025. 
 
 5.  **Prianka Mandal**, Amit Seal Ami, Victor Olaiya, Sayyed Hadi Razmjo, and Aadwait Nadkarni, “[‘Belt and suspenders’ or ‘just red tape’?: Investigating Early Artifacts and User Perceptions of IoT App Security Certification](https://www.usenix.org/conference/usenixsecurity24/presentation/mandal),” in Proceedings of the 2024 USENIX Security Symposium (USENIX), Aug. 2024. 
 
