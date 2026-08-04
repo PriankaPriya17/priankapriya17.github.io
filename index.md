@@ -2,14 +2,16 @@
 layout: default
 ---
 
-I am a Ph.D. Candidate at the <a href="https://www.wm.edu/as/computerscience/"> Computer Science Department, William and Mary</a> and a _Lead Graduate_ student in the  <a href="https://spl-wm.github.io/">Secure Platforms Lab (SPL)</a>. My research advisor is <a href="https://www.adwaitnadkarni.com/"> Dr. Adwait Nadkarni</a>. 
+I will be joining the University of South Florida (USF) as an Assistant Professor starting in Fall 2026!
 
 
 My research assesses the security and privacy of consumer-facing computing platforms using a multidimensional approach. To accomplish this, I use mixed methods, combining vulnerability analysis, systematic measurement, and qualitative studies to evaluate artifacts, stakeholder perspectives, and legal perspectives. In particular, I look into these: (i) how the compliance standards and regulations are implemented and being practiced, and (ii) how they should be. I explored these two aspects in the context of the IoT ecosystem. That is, my work identifies the challenges and latent factors in current security compliance and certification practices for IoT products. Further, I investigated the privacy practices of non-profits that collect sensitive user data. The goal is to motivate similar expectations of privacy and regulations to prevent harmful privacy practices within the non-profit sector. 
 
 My research has been published in top-tier security and privacy venues, including USENIX Security 2024, IEEE S&P 2024, IEEE S&P 2025, and PETS 2025, as well as in software engineering venues such as ICST 2025 and FSE 2023.
 
-<span style="color: blue"> _**I am on the job market seeking research positions in academia or industry!**_ </span>
+I completed my Ph.D. in Computer Science from the <a href="https://www.wm.edu/as/computerscience/"> Computer Science Department, William and Mary</a>. My research advisor was <a href="https://www.adwaitnadkarni.com/"> Dr. Adwait Nadkarni</a>. 
+
+<!---<span style="color: blue"> _**I am on the job market seeking research positions in academia or industry!**_ </span>-->
 
 <!---### Contact me-->
 
@@ -19,6 +21,9 @@ My research has been published in top-tier security and privacy venues, includin
 
 
 # News
+
+## 2026
+_ (_May_) I successfully defended my Ph.D. dissertation! 🎓
 
 ## 2025
 - (_May-August_) I was a Research Intern at [The Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/).  
