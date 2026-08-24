@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I will be joining the University of South Florida (USF) as an Assistant Professor starting in Fall 2026!
+I am a tenure-track assistant professor in the School of Information at the University of South Florida.
 
 
 My research assesses the security and privacy of consumer-facing computing platforms using a multidimensional approach. To accomplish this, I use mixed methods, combining vulnerability analysis, systematic measurement, and qualitative studies to evaluate artifacts, stakeholder perspectives, and legal perspectives. In particular, I look into these: (i) how the compliance standards and regulations are implemented and being practiced, and (ii) how they should be. I explored these two aspects in the context of the IoT ecosystem. That is, my work identifies the challenges and latent factors in current security compliance and certification practices for IoT products. Further, I investigated the privacy practices of non-profits that collect sensitive user data. The goal is to motivate similar expectations of privacy and regulations to prevent harmful privacy practices within the non-profit sector. 
@@ -13,16 +13,18 @@ I completed my Ph.D. in Computer Science from the <a href="https://www.wm.edu/as
 
 <!---<span style="color: blue"> _**I am on the job market seeking research positions in academia or industry!**_ </span>-->
 
-<!---### Contact me-->
+### Contact
+Email: priankamandal@usf.edu
 
 <!---[Send Email](mailto:priankamandal17@gmail.com)-->
 
 
-
+---
 
 # News
 
 ## 2026
+_ (_August_) I joined the University of South Florida as a tenure-track assistant professor!
 _ (_May_) I successfully defended my Ph.D. dissertation! 🎓
 
 ## 2025
